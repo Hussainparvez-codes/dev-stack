@@ -10,7 +10,7 @@ function YourStack({ selectedStack, setSelectedStack }) {
         Your Stack
         </h2>
 
-        <span className="mt-2 inline-block rounded-full bg-pink-50 px-3 py-1 text-xm font-medium text-pink-500">
+        <span className="mt-2 inline-block rounded-full bg-pink-50 px-3 py-1 text-xs font-medium text-gray-500">
         {selectedStack.length}{" "}
         {selectedStack.length === 1 ? "technology" : "technology"} selected
         </span>
