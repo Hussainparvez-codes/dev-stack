@@ -36,14 +36,14 @@ function Technologies() {
 
           {/* Section Heading */}
           <div>
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
-              Explore{" "}
+            <h2 className="text-4xl md:text-[42px] font-bold text-gray-900">
+              Explore the {" "}
               <span className="bg-gradient-to-r from-orange-400 via-pink-500 to-violet-600 bg-clip-text text-transparent">
                 Technologies
               </span>
             </h2>
 
-            <p className="mt-2 text-base text-gray-500">
+            <p className="mt-2 text-[19px] text-gray-500">
               Pick one technology per category to build your ideal stack.
             </p>
           </div>
